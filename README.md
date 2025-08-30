@@ -7,7 +7,6 @@ I will use this file to record down my thought process and comments about my wor
     - The user is less likely to be accidently/intentionally misled due to murky reasoning/improper explanation.
     - Make CoT monitoring & oversight easier.
     - Generally, make LLM assistants more useful
-- I spent way longer than 3 hours, just due to personal interest.
 
 
 # Note on LLM generated code
